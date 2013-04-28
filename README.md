@@ -1,4 +1,4 @@
-darklabyrinths
+DarkLabyrinths
 ==============
 
 This is the main repository for the DarkLabyrinths project (previously fractwall).
